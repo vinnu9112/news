@@ -1,0 +1,96 @@
+{
+  "status": "ok",
+  "totalResults": 9,
+  "articles": [
+    {
+      "source": { "id": "news24", "name": "News24" },
+      "author": "AFP",
+      "title": "Manchester United owners consider sale of club as Ronaldo exits",
+      "description": "The owners of Manchester United said Tuesday they were open to selling the English football giants.",
+      "url": "https://www.news24.com/sport/soccer/englishpremiership/official-glazer-family-to-consider-manchester-united-sale-we-will-evaluate-all-options-20221122",
+      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/7752/ab0050142ba3409f877e9fa29cbe90a3.jpg",
+      "publishedAt": "2022-11-23T06:25:41+00:00",
+      "content": "Manchester United's owners said on Tuesday they were ready to sell the club, potentially bringing down the curtain on an acrimonious 17 years under the Glazer family.\r\nOn a tumultuous day for the Eng… [+3553 chars]"
+    },
+    {
+      "source": { "id": "lequipe", "name": "L'equipe" },
+      "author": "L'EQUIPE",
+      "title": "Programme TV foot : à quelle heure et sur quelle chaîne voir les matchs de ce soir (23 novembre 2022) ?",
+      "description": "Retrouvez l'intégralité des retransmissions des matches de football du jour retransmis sur toutes les chaînes du bouquet TNT, Câble et Satellite. Ligue 1, Ligue 2, Premier League, coupes d'Europe... Suivez tous les matches en direct sur votre télévision ou en…",
+      "url": "https://www.lequipe.fr/Football/Actualites/Programme-tv-foot-a-quelle-heure-et-sur-quelle-chaine-voir-les-matchs-de-ce-soir-23-novembre-2022/1366399",
+      "urlToImage": "https://medias.lequipe.fr/img-photo-jpg/-/1500000001560312/4:0,2500:1664-640-427-75/16a19.jpg",
+      "publishedAt": "2022-11-23T06:00:17+00:00",
+      "content": "Coupe du monde - : 1re journée \r\n- Maroc - Croatie : à 11 heures en direct sur beIN Sports 1 et beIN Sports 2 - Allemagne - Japon : à 14 heures en direct sur beIN Sports 1 et beIN Sports 2 - Espagne … [+150 chars]"
+    },
+    {
+      "source": { "id": "the-irish-times", "name": "The Irish Times" },
+      "author": "Kevin Kilbane",
+      "title": "Kevin Kilbane: All-consuming power of the World Cup diverts attention to the football in Qatar",
+      "description": "Salem Al-Dawsari’s thunderbolt for Saudi Arabia causes seismic shock at World Cup",
+      "url": "https://www.irishtimes.com/sport/soccer/2022/11/23/kevin-kilbane-unlikely-saudi-success-a-seminal-moment-for-football-in-arab-world/",
+      "urlToImage": "https://www.irishtimes.com/resizer/kbrj20EPftD-0l9WHHRbLaN22L0=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/U2IZNJRJ6U24JUTQLTP74TFNRE.jpg",
+      "publishedAt": "2022-11-23T05:00:02Z",
+      "content": "I was 13 years old when Kevin Sheedy equalised against England in Caligari at the 1990 World Cup. The goal is seared into my psyche.\r\nSalem Al-Dawsaris thunderbolt and somersaulting celebration at th… [+6561 chars]"
+    },
+    {
+      "source": { "id": "fox-sports", "name": "Fox Sports" },
+      "author": "RJ Young",
+      "title": "College Football Playoff Rankings: What's at stake for Ohio State, Michigan?",
+      "description": "The College Football Playoff committee moves LSU up to No. 5 in its latest rankings. Here's what it all means for \"The Game.\"",
+      "url": "http://www.foxsports.com/stories/college-football/college-football-playoff-rankings-whats-at-stake-for-ohio-state-michigan",
+      "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/11/1408/814/10.31.22_RJs-Live-Reax-to-CFP-Rankings-Release_16x9-1.jpg?ve=1&tl=1",
+      "publishedAt": "2022-11-23T02:23:18Z",
+      "content": "Former Ohio State quarterback Troy Smith knows whats at stake for his Buckeyes in the latest edition of college football's most famous rivalry.\r\n\"I mean, it's everything,\" Smith said of \"The Game\" be… [+4160 chars]"
+    },
+    {
+      "source": { "id": "espn", "name": "ESPN" },
+      "author": null,
+      "title": "Jury finds NCAA not responsible for ex-USC LB Matthew Gee's death",
+      "description": "A Los Angeles jury on Tuesday rejected a claim by the widow of former USC football player Matthew Gee who said the NCAA failed to protect him from repeated head trauma that led to his death.",
+      "url": "http://espn.go.com/college-football/story/_/id/35087574/jury-finds-ncaa-not-responsible-ex-usc-lb-matthew-gee-death",
+      "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F1123%2Fr1095292_1296x729_16%2D9.jpg",
+      "publishedAt": "2022-11-23T01:08:00Z",
+      "content": "LOS ANGELES -- A Los Angeles jury on Tuesday rejected a claim by the widow of a former USC football player who said the NCAA failed to protect him from repeated head trauma that led to his death.\r\nMa… [+4051 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "World Cup 2022: Team Canada warms up for historic game",
+      "description": "Canada will play for the first time in 36 years, ushering in a new era for football in the country.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-63684672",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/F01D/production/_127696416_gettyimages-1241226755.jpg",
+      "publishedAt": "2022-11-23T00:52:25.8224413Z",
+      "content": "Canadian football fans are used to donning the jerseys of other countries during the Fifa World Cup - but this year is different. A young, promising Team Canada will play on the world stage for the f… [+5015 chars]"
+    },
+    {
+      "source": { "id": "abc-news", "name": "ABC News" },
+      "author": "BRIAN MELLEY Associated Press",
+      "title": "Jury: NCAA not to blame in ex-USC football player's death",
+      "description": "A Los Angeles jury has rejected a claim by the widow of a former USC football player who said the NCAA failed to protect him from repeated head trauma that led to his death",
+      "url": "https://abcnews.go.com/Business/wireStory/jury-ncaa-blame-usc-football-players-death-93827100",
+      "urlToImage": "https://s.abcnews.com/images/Sports/WireAP_7500abcc04df434c93f7cb65f91fe53e_16x9_992.jpg",
+      "publishedAt": "2022-11-23T00:31:18Z",
+      "content": "LOS ANGELES -- A Los Angeles jury on Tuesday rejected a claim by the widow of a former USC football player who said the NCAA failed to protect him from repeated head trauma that led to his death. \r\nM… [+3094 chars]"
+    },
+    {
+      "source": { "id": "polygon", "name": "Polygon" },
+      "author": "Owen S. Good",
+      "title": "EA Sports College Football delayed to 2024, says report",
+      "description": "EA Sports College Football, first announced in February 2021, will launch in 2024, the publisher said on Nov. 22. The most anticipated sports game is a resurrection of the NCAA Football series, which ended in 2013.",
+      "url": "https://www.polygon.com/23473151/ea-sports-college-football-delayed-release-date-2024-ncaa",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/uRoxKlK4H-saos_dxdtVIKHMqdw=/0x38:1920x1043/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19309977/ncaa_football_14_texas_oklahoma_1920.jpg",
+      "publishedAt": "2022-11-22T16:08:14Z",
+      "content": "EA Sports College Football will launch in 2024, not 2023, as many had expected, according to two letters obtained and posted by a sports business journalist on Tuesday morning.\r\nThe communications a … [+2319 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "Five famous people (and one cat) you didn't know have ESPNcricinfo profiles | ESPNcricinfo.com",
+      "description": "Why do a footballer, a Nobel laureate and a prime minister (no, not Imran Khan) find themselves in the ESPNcricinfo player database? | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29102695/five-famous-people-one-cat-know-espncricinfo-profiles",
+      "urlToImage": "https://a.espncdn.com/i/cricket/cricinfo/1221668_1296x1296.gif",
+      "publishedAt": "2020-04-27T07:20:43Z",
+      "content": "Why do a cat, a footballer, a Nobel laureate and a prime minister find themselves in the ESPNcricinfo database? Here are six player profiles you wouldn't have expected we had.\r\nPeter the catThe only … [+5504 chars]"
+    }
+  ]
+}
