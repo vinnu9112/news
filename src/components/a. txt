@@ -1,9 +1,7 @@
-async componentDidMount() {
-    let url =
-      "https://newsapi.org/v2/top-headlines?country=in&category=business&apiKey=2123eecdcde14cabae76ee3b50698dc9";
-    let data = await fetch(url);
-    let parsedData = await data.json();
-    console.log(parsedData);
-
-
-  }
+business
+entertainment
+general
+health
+science
+sports
+technology
