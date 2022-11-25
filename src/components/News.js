@@ -8,7 +8,6 @@ const News =(props)=> {
   const [loading, setLoading] = useState(true);
   const [page, setPage] = useState(1);
   const [totalResults, setTotalResults ] = useState(0);
-  // document.title = `${capitalize(props.category)} - NewsMonkey`;
  
   const capitalize = (string)=>{
     return string.charAt(0).toUpperCase() + string.slice(1);
@@ -30,19 +29,10 @@ const News =(props)=> {
   }
 
   useEffect(() => {
+    document.title = `${capitalize(props.category)} - NewsMonkey`;
     updateNews();
   }, []);
   
-
-  const handlePrevClick = async () => {
-    setPage(page-1);
-    updateNews();
-  };
-  const handleNextClick = async () => {
-    setPage(page+1);
-    updateNews();
-  };
-
   const fetchMoreData = async() => {
     setPage(page + 1)
     const url = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=${props.apiKey}&page=${page+1}&pagesize=${props.pageSize}`;
