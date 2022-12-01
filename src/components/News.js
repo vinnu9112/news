@@ -31,6 +31,7 @@ const News =(props)=> {
   useEffect(() => {
     document.title = `${capitalize(props.category)} - NewsMonkey`;
     updateNews();
+    // eslint-disable-next-line 
   }, []);
   
   const fetchMoreData = async() => {
